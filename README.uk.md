@@ -97,4 +97,4 @@ Issues та pull request-и вітаються. Для великих змін, 
 
 ## Ліцензія
 
-Проєкт поширюється за ліцензією [MIT](LICENSE).
+Проєкт поширюється за ліцензією [MIT](https://github.com/CapitanSashko/AUREON-Text-Editor/blob/main/NotePad/LICENSE).
