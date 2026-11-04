@@ -1,4 +1,4 @@
-# AUREON Notepad
+# AUREON Text Editor
 
 <img width="793" height="596" alt="image" src="https://github.com/user-attachments/assets/5cd0cbdc-f5dd-4a77-baad-3416c14bcc93" />
 
