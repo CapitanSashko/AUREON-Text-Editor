@@ -46,7 +46,7 @@ a distraction-free "Zen mode" and automatic crash recovery, while staying simple
 ### Build from source
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/<CapitanSashko>/<repository-name>.git
 cd <repository-name>
 dotnet build -c Release
 ```
