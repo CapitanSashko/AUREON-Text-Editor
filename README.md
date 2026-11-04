@@ -16,6 +16,9 @@ a distraction-free "Zen mode" and automatic crash recovery, while staying simple
 
 <img width="788" height="594" alt="image" src="https://github.com/user-attachments/assets/3f93e122-c939-448b-b24a-86a48fcd1bba" />
 
+<img width="795" height="595" alt="image" src="https://github.com/user-attachments/assets/9ad84632-c3c0-4273-81f1-8f2ea5b852ed" />
+
+
 ## Features
 
 - **Custom borderless UI** with its own title bar, menus and status bar
