@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>aureon.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+
+<AssemblyTitle>AUREON Text Editor</AssemblyTitle>
+<Product>AUREON Text Editor</Product>
+<Company>CapitanSashko</Company>
+<Description>Modern Windows Text Editor</Description>
+<Copyright>Copyright © 2026 Oleksandr Echkenko</Copyright>
+
+<Version>1.0.0</Version>
+<AssemblyVersion>1.0.0.0</AssemblyVersion>
+<FileVersion>1.0.0.0</FileVersion>
+<InformationalVersion>1.0.0</InformationalVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="aureon.ico" />
+  </ItemGroup>
+
+</Project>
