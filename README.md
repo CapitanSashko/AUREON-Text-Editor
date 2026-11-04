@@ -98,4 +98,4 @@ to discuss what you would like to change.
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](https://github.com/CapitanSashko/AUREON-Text-Editor/blob/main/NotePad/LICENSE).
