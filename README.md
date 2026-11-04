@@ -47,7 +47,7 @@ a distraction-free "Zen mode" and automatic crash recovery, while staying simple
 
 ```bash
 git clone https://github.com/<CapitanSashko>/<Text-Editor>.git
-cd <repository-name>
+cd <CapitanSashko>
 dotnet build -c Release
 ```
 
