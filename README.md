@@ -13,7 +13,8 @@ It replaces the classic Notepad with a custom dark interface, a built-in find & 
 a distraction-free "Zen mode" and automatic crash recovery, while staying simple and plain-text only.
 
 <!-- Add a screenshot to docs/screenshot.png and uncomment the line below -->
-<!-- ![Screenshot](docs/screenshot.png) -->
+
+<img width="788" height="594" alt="image" src="https://github.com/user-attachments/assets/3f93e122-c939-448b-b24a-86a48fcd1bba" />
 
 ## Features
 
