@@ -1,5 +1,7 @@
 # AUREON Notepad
 
+<img width="793" height="596" alt="image" src="https://github.com/user-attachments/assets/5cd0cbdc-f5dd-4a77-baad-3416c14bcc93" />
+
 [English](README.en.md) | **Українська**
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
