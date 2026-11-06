@@ -1,6 +1,6 @@
 # AUREON Text Editor
 
-<img width="793" height="596" alt="image" src="https://github.com/user-attachments/assets/5cd0cbdc-f5dd-4a77-baad-3416c14bcc93" />
+<img width="788" height="665" alt="image" src="https://github.com/user-attachments/assets/29263734-6d8a-4364-ad2a-2a37f0e38ea5" />
 
 **English** | [Українська](README.uk.md)
 
