@@ -14,7 +14,7 @@ a distraction-free "Zen mode" and automatic crash recovery, while staying simple
 
 <!-- Add a screenshot to docs/screenshot.png and uncomment the line below -->
 
-<img width="788" height="594" alt="image" src="https://github.com/user-attachments/assets/3f93e122-c939-448b-b24a-86a48fcd1bba" />
+<img width="794" height="666" alt="image" src="https://github.com/user-attachments/assets/42d3ea5c-6ccc-4da3-97ec-75c06520acee" />
 
 ## Features
 
