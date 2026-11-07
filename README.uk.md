@@ -1,6 +1,6 @@
 # AUREON Text Editor
 
-<img width="793" height="596" alt="image" src="https://github.com/user-attachments/assets/5cd0cbdc-f5dd-4a77-baad-3416c14bcc93" />
+<img width="788" height="665" alt="image" src="https://github.com/user-attachments/assets/29263734-6d8a-4364-ad2a-2a37f0e38ea5" />
 
 [English](README.md) | **Українська**
 
@@ -13,7 +13,7 @@
 режимом «Дзен» без відволікань та автоматичним відновленням тексту після збою — і при цьому залишається
 простим редактором лише для звичайного тексту.
 
-<img width="788" height="594" alt="image" src="https://github.com/user-attachments/assets/3f93e122-c939-448b-b24a-86a48fcd1bba" />
+<img width="794" height="666" alt="image" src="https://github.com/user-attachments/assets/42d3ea5c-6ccc-4da3-97ec-75c06520acee" />
 
 ## Можливості
 
