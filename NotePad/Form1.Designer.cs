@@ -1,4 +1,5 @@
-﻿namespace NotePad
+﻿// Дизайн проекта
+namespace NotePad
 {
     partial class Form1
     {

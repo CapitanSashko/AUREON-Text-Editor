@@ -1,4 +1,5 @@
-﻿using System;
+﻿// подключаемые библиотеки
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;

@@ -1,3 +1,4 @@
+// Запуск программы
 using System;
 using System.Windows.Forms;
 
